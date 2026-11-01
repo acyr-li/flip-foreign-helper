@@ -5,8 +5,5 @@ __pycache__/
 *.pyc
 *.log
 
-# 个人配置（每人自己填 key）
-config.json
-
-# 答题记录（每人自己的）
+# 每个人的答题记录不同，不进仓库
 data/state.json
